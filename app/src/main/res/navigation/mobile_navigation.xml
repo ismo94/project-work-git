@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.myproject.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.myproject.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_room"
+        android:name="com.example.myproject.RoomFragment"
+        android:label="Rooms"
+        tools:layout="@layout/fragment_room" />
+
+    <fragment
+        android:id="@+id/nav_calender"
+        android:name="com.example.myproject.CalenderFragment"
+        android:label="Calender"
+        tools:layout="@layout/fragment_calender" />
+
+    <fragment
+        android:id="@+id/nav_facilities"
+        android:name="com.example.myproject.FacilitiesFragment"
+        android:label="Facilities"
+        tools:layout="@layout/fragment_facilities" />
+
+    <fragment
+        android:id="@+id/nav_reservation"
+        android:name="com.example.myproject.ReservationFragment"
+        android:label="Reservation"
+        tools:layout="@layout/fragment_reservation" />
+
+    <fragment
+        android:id="@+id/nav_location"
+        android:name="com.example.myproject.LocationFragment"
+        android:label="Location"
+        tools:layout="@layout/fragment_location" />
+
+    <fragment
+        android:id="@+id/nav_share"
+        android:name="com.example.myproject.ui.share.ShareFragment"
+        android:label="@string/menu_share"
+        tools:layout="@layout/fragment_share" />
+
+    <fragment
+        android:id="@+id/nav_send"
+        android:name="com.example.myproject.ui.send.SendFragment"
+        android:label="@string/menu_send"
+        tools:layout="@layout/fragment_send" />
+</navigation>

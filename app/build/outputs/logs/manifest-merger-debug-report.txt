@@ -1,0 +1,268 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/e87bcd878067eb21105d14cc988ed382/jetified-navigation-ui-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.1.0-beta01] /home/ismael/.gradle/caches/transforms-2/files-2.1/0b446479c9ce66c19788a9e0e2178ba0/material-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/f5bdf8930f5b0dade80802408310dda6/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ismael/.gradle/caches/transforms-2/files-2.1/c1763829f79bc3811543d2bb9a22b866/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/1d93c655cdcaa19a3180f48e63f30b3d/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/834397949403ccef5558b21c9967f60e/navigation-fragment-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/4f3f57a83cb26d1dd8ca69501722966b/lifecycle-extensions-2.1.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta04] /home/ismael/.gradle/caches/transforms-2/files-2.1/7069f94c00a30ecb63c486a742952bc7/viewpager2-1.0.0-beta04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.0-beta02] /home/ismael/.gradle/caches/transforms-2/files-2.1/3c2c77b39ed110f78d4205087eb1a3e3/fragment-1.2.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/fef0d3e0cf442fb5cdebaa3af059bc1d/navigation-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/c034f7088c57e18a85dafc68b942945f/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/a44642c3bddc1cd9ae77529ce5394be3/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/67e3a22614326cadf216274f01d6d423/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/3d66247cb3e229dc7753f5f4d3b35b4b/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/e7201af0ac6a1eb782d2b896d1ec4242/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/984e9edaa0792ad5f44429be517dd8ee/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /home/ismael/.gradle/caches/transforms-2/files-2.1/a9608eab5c04bc79d9894b8c999ea514/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.0.1] /home/ismael/.gradle/caches/transforms-2/files-2.1/278c8e284db6fc9800db55d51ff5aab6/transition-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/bf0848ee243e36dc13961016c6f63543/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/9572194aa98bde0ee13f87e0985824cf/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/7ae8c1d65b7331eeb350edf91287a16c/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/de3b4aff63e255359d6d83ac6fbdaff5/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0-beta01] /home/ismael/.gradle/caches/transforms-2/files-2.1/31af9225443fd61207d5e46e7b82dc7f/activity-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/53b80eb10e19cd993179f750793a192b/navigation-common-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/985ff358bb91108c25d3fd24361b35b6/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta04] /home/ismael/.gradle/caches/transforms-2/files-2.1/051abc67d3c4e33bdb6b5289276bbacd/recyclerview-1.1.0-beta04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/2dfde23a071269bfc073d57af77f7873/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/9b9140e118d7f4f83e504277c0661cb2/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/7b3b7b721ad53547c0e35001526b3ae3/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/7f6c41cc2a14c0fbaa8d0166c17dc544/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/fb37b7f790edcc9d7fe6d3e5314b8c56/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/9a29ee90fd211f611caccd9d338a3e44/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-beta01] /home/ismael/.gradle/caches/transforms-2/files-2.1/de89798fb4674e112cc0bdbb2b79ebd9/lifecycle-viewmodel-savedstate-1.0.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-beta01] /home/ismael/.gradle/caches/transforms-2/files-2.1/50df67245a69c3f7314c04684183e2ba/lifecycle-viewmodel-2.2.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/bd0a62944459a1adc1265a78d0c60d40/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-beta01] /home/ismael/.gradle/caches/transforms-2/files-2.1/136d496dcbd76f45e1cc58b04475a19d/lifecycle-livedata-core-2.2.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/7fd288a66b1b8e0d6669d784ba4e7ede/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/e50b3f7edd4f9041d2755ee263c7c860/lifecycle-process-2.1.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/56ac9380cb774c810e6009b415c27771/lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-beta01] /home/ismael/.gradle/caches/transforms-2/files-2.1/fc96916f6ce33a810d71056edcf72e50/lifecycle-runtime-2.2.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/f031147607d3aeb238f176a00d5e308c/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/8506ddbc1ed30380944ad7f0369e4760/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/35d6382087ac1999db47004e3bf24934/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/8893b90c6f2a61edd1acfa898cb4cde1/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/2d1f640c1b4beb33089ff5c91bbd7f31/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:5:5-32:19
+MERGED from [com.google.android.material:material:1.1.0-beta01] /home/ismael/.gradle/caches/transforms-2/files-2.1/0b446479c9ce66c19788a9e0e2178ba0/material-1.1.0-beta01/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-beta01] /home/ismael/.gradle/caches/transforms-2/files-2.1/0b446479c9ce66c19788a9e0e2178ba0/material-1.1.0-beta01/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ismael/.gradle/caches/transforms-2/files-2.1/c1763829f79bc3811543d2bb9a22b866/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ismael/.gradle/caches/transforms-2/files-2.1/c1763829f79bc3811543d2bb9a22b866/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/4f3f57a83cb26d1dd8ca69501722966b/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/4f3f57a83cb26d1dd8ca69501722966b/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/7f6c41cc2a14c0fbaa8d0166c17dc544/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/7f6c41cc2a14c0fbaa8d0166c17dc544/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/9a29ee90fd211f611caccd9d338a3e44/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/9a29ee90fd211f611caccd9d338a3e44/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/e50b3f7edd4f9041d2755ee263c7c860/lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/e50b3f7edd4f9041d2755ee263c7c860/lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/7f6c41cc2a14c0fbaa8d0166c17dc544/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.myproject.AddLocationActivity
+ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:12:9-66
+	android:name
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:12:19-54
+activity#com.example.myproject.AddReservedActivity
+ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:13:9-57
+	android:name
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:13:19-54
+activity#com.example.myproject.AddFaciliActivity
+ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:14:9-55
+	android:name
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:14:19-52
+activity#com.example.myproject.AdmCalenderActivity
+ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:15:9-57
+	android:name
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:15:19-54
+activity#com.example.myproject.AddRoomActivity
+ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:16:9-53
+	android:name
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:16:19-50
+activity#com.example.myproject.AddGalleryActivity
+ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:17:9-56
+	android:name
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:17:19-53
+activity#com.example.myproject.AdmHomeActivity
+ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:18:9-53
+	android:name
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:18:19-50
+activity#com.example.myproject.Main3Activity
+ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:19:9-22:59
+	android:label
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:21:13-57
+	android:theme
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:20:13-42
+activity#com.example.myproject.HotelActivity
+ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:23:9-51
+	android:name
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:23:19-48
+activity#com.example.myproject.Main2Activity
+ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:24:9-51
+	android:name
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:24:19-48
+activity#com.example.myproject.MainActivity
+ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:25:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml
+INJECTED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/e87bcd878067eb21105d14cc988ed382/jetified-navigation-ui-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/e87bcd878067eb21105d14cc988ed382/jetified-navigation-ui-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.1.0-beta01] /home/ismael/.gradle/caches/transforms-2/files-2.1/0b446479c9ce66c19788a9e0e2178ba0/material-1.1.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-beta01] /home/ismael/.gradle/caches/transforms-2/files-2.1/0b446479c9ce66c19788a9e0e2178ba0/material-1.1.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/f5bdf8930f5b0dade80802408310dda6/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/f5bdf8930f5b0dade80802408310dda6/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ismael/.gradle/caches/transforms-2/files-2.1/c1763829f79bc3811543d2bb9a22b866/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ismael/.gradle/caches/transforms-2/files-2.1/c1763829f79bc3811543d2bb9a22b866/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/1d93c655cdcaa19a3180f48e63f30b3d/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/1d93c655cdcaa19a3180f48e63f30b3d/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/834397949403ccef5558b21c9967f60e/navigation-fragment-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/834397949403ccef5558b21c9967f60e/navigation-fragment-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/4f3f57a83cb26d1dd8ca69501722966b/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/4f3f57a83cb26d1dd8ca69501722966b/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta04] /home/ismael/.gradle/caches/transforms-2/files-2.1/7069f94c00a30ecb63c486a742952bc7/viewpager2-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta04] /home/ismael/.gradle/caches/transforms-2/files-2.1/7069f94c00a30ecb63c486a742952bc7/viewpager2-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0-beta02] /home/ismael/.gradle/caches/transforms-2/files-2.1/3c2c77b39ed110f78d4205087eb1a3e3/fragment-1.2.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0-beta02] /home/ismael/.gradle/caches/transforms-2/files-2.1/3c2c77b39ed110f78d4205087eb1a3e3/fragment-1.2.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/fef0d3e0cf442fb5cdebaa3af059bc1d/navigation-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/fef0d3e0cf442fb5cdebaa3af059bc1d/navigation-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/c034f7088c57e18a85dafc68b942945f/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/c034f7088c57e18a85dafc68b942945f/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/a44642c3bddc1cd9ae77529ce5394be3/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/a44642c3bddc1cd9ae77529ce5394be3/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/67e3a22614326cadf216274f01d6d423/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/67e3a22614326cadf216274f01d6d423/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/3d66247cb3e229dc7753f5f4d3b35b4b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/3d66247cb3e229dc7753f5f4d3b35b4b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/e7201af0ac6a1eb782d2b896d1ec4242/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/e7201af0ac6a1eb782d2b896d1ec4242/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/984e9edaa0792ad5f44429be517dd8ee/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/984e9edaa0792ad5f44429be517dd8ee/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /home/ismael/.gradle/caches/transforms-2/files-2.1/a9608eab5c04bc79d9894b8c999ea514/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /home/ismael/.gradle/caches/transforms-2/files-2.1/a9608eab5c04bc79d9894b8c999ea514/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.0.1] /home/ismael/.gradle/caches/transforms-2/files-2.1/278c8e284db6fc9800db55d51ff5aab6/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /home/ismael/.gradle/caches/transforms-2/files-2.1/278c8e284db6fc9800db55d51ff5aab6/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/bf0848ee243e36dc13961016c6f63543/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/bf0848ee243e36dc13961016c6f63543/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/9572194aa98bde0ee13f87e0985824cf/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/9572194aa98bde0ee13f87e0985824cf/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/7ae8c1d65b7331eeb350edf91287a16c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/7ae8c1d65b7331eeb350edf91287a16c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/de3b4aff63e255359d6d83ac6fbdaff5/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/de3b4aff63e255359d6d83ac6fbdaff5/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0-beta01] /home/ismael/.gradle/caches/transforms-2/files-2.1/31af9225443fd61207d5e46e7b82dc7f/activity-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0-beta01] /home/ismael/.gradle/caches/transforms-2/files-2.1/31af9225443fd61207d5e46e7b82dc7f/activity-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/53b80eb10e19cd993179f750793a192b/navigation-common-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/53b80eb10e19cd993179f750793a192b/navigation-common-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/985ff358bb91108c25d3fd24361b35b6/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/985ff358bb91108c25d3fd24361b35b6/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta04] /home/ismael/.gradle/caches/transforms-2/files-2.1/051abc67d3c4e33bdb6b5289276bbacd/recyclerview-1.1.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta04] /home/ismael/.gradle/caches/transforms-2/files-2.1/051abc67d3c4e33bdb6b5289276bbacd/recyclerview-1.1.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/2dfde23a071269bfc073d57af77f7873/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/2dfde23a071269bfc073d57af77f7873/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/9b9140e118d7f4f83e504277c0661cb2/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/9b9140e118d7f4f83e504277c0661cb2/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/7b3b7b721ad53547c0e35001526b3ae3/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/7b3b7b721ad53547c0e35001526b3ae3/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/7f6c41cc2a14c0fbaa8d0166c17dc544/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/7f6c41cc2a14c0fbaa8d0166c17dc544/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/fb37b7f790edcc9d7fe6d3e5314b8c56/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/fb37b7f790edcc9d7fe6d3e5314b8c56/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/9a29ee90fd211f611caccd9d338a3e44/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/9a29ee90fd211f611caccd9d338a3e44/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-beta01] /home/ismael/.gradle/caches/transforms-2/files-2.1/de89798fb4674e112cc0bdbb2b79ebd9/lifecycle-viewmodel-savedstate-1.0.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-beta01] /home/ismael/.gradle/caches/transforms-2/files-2.1/de89798fb4674e112cc0bdbb2b79ebd9/lifecycle-viewmodel-savedstate-1.0.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-beta01] /home/ismael/.gradle/caches/transforms-2/files-2.1/50df67245a69c3f7314c04684183e2ba/lifecycle-viewmodel-2.2.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-beta01] /home/ismael/.gradle/caches/transforms-2/files-2.1/50df67245a69c3f7314c04684183e2ba/lifecycle-viewmodel-2.2.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/bd0a62944459a1adc1265a78d0c60d40/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/bd0a62944459a1adc1265a78d0c60d40/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-beta01] /home/ismael/.gradle/caches/transforms-2/files-2.1/136d496dcbd76f45e1cc58b04475a19d/lifecycle-livedata-core-2.2.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-beta01] /home/ismael/.gradle/caches/transforms-2/files-2.1/136d496dcbd76f45e1cc58b04475a19d/lifecycle-livedata-core-2.2.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/7fd288a66b1b8e0d6669d784ba4e7ede/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/7fd288a66b1b8e0d6669d784ba4e7ede/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/e50b3f7edd4f9041d2755ee263c7c860/lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/e50b3f7edd4f9041d2755ee263c7c860/lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/56ac9380cb774c810e6009b415c27771/lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/56ac9380cb774c810e6009b415c27771/lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-beta01] /home/ismael/.gradle/caches/transforms-2/files-2.1/fc96916f6ce33a810d71056edcf72e50/lifecycle-runtime-2.2.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-beta01] /home/ismael/.gradle/caches/transforms-2/files-2.1/fc96916f6ce33a810d71056edcf72e50/lifecycle-runtime-2.2.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/f031147607d3aeb238f176a00d5e308c/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/f031147607d3aeb238f176a00d5e308c/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/8506ddbc1ed30380944ad7f0369e4760/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/8506ddbc1ed30380944ad7f0369e4760/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/35d6382087ac1999db47004e3bf24934/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/35d6382087ac1999db47004e3bf24934/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/8893b90c6f2a61edd1acfa898cb4cde1/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/8893b90c6f2a61edd1acfa898cb4cde1/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/2d1f640c1b4beb33089ff5c91bbd7f31/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/2d1f640c1b4beb33089ff5c91bbd7f31/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml
+INJECTED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml
+		ADDED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ismael/Downloads/Myproject/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/e50b3f7edd4f9041d2755ee263c7c860/lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/e50b3f7edd4f9041d2755ee263c7c860/lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/e50b3f7edd4f9041d2755ee263c7c860/lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/e50b3f7edd4f9041d2755ee263c7c860/lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/ismael/.gradle/caches/transforms-2/files-2.1/e50b3f7edd4f9041d2755ee263c7c860/lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
